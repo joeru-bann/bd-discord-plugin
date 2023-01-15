@@ -12,7 +12,7 @@
     description: "toggle fullscreen on selected video",
     version: "0.0.1",
     author: "joeru",
-    updateUrl: "https://raw.githubusercontent.com/Farcrada/DiscordPlugins/master/Double-click-to-edit/DoubleClickToEdit.plugin.js"
+    updateUrl: "https://github.com/joeru-bann/bd-discord-plugin/blob/main/ToggleFullscreen.js"
 
   }
 },
