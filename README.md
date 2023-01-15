@@ -1,4 +1,4 @@
-# bd-discord-plugin
+# ToggleFullscreen BD plugin
 Author: joltar#6972
 Creating a simple Better Discord Pluygin which allows a 'Toggle' option to selected / in focus videos
 Toggling the focus on playing videos from 'default' to maximised/fullscreen
